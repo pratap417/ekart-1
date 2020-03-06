@@ -3,4 +3,5 @@
   Password: <input type="password"  name="password"> <br>
   <input type=submit  value="click">
   <input type="reset"  value="reset">
+  <input type="button">
 </form>
