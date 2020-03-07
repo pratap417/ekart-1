@@ -5,4 +5,5 @@
   <input type="reset"  value="reset">
   <a href="index.jsp">click</a>
   <input  type="checkbox">
+  <input  type="radio">
 </form>
